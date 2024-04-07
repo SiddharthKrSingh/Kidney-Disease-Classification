@@ -1,1 +1,3 @@
 kvenv/
+artifacts/
+__pycache__/
