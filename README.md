@@ -81,3 +81,30 @@ export MLFLOW_TRACKING_USERNAME=siddharthsingh590
 export MLFLOW_TRACKING_PASSWORD=45d318899d6dfacf2f0daf38350dade42f59cc95
 
 ```
+
+### DVC cmd
+
+1. dvc init
+2. dvc repro
+3. dvc dag
+
+
+## About MLflow & DVC
+
+MLflow
+
+ - Its Production Grade
+ - Trace all of your expriements
+ - Logging & taging your model
+
+
+DVC 
+
+ - Its very lite weight for POC only
+ - lite weight expriements tracker
+ - It can perform Orchestration (Creating Pipelines)
+
+
+## Run On Local Host
+  - Open the terminal
+  - run python app.py
